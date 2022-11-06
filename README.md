@@ -1,3 +1,3 @@
 # The Odin Project recipes
 
-My first HTML project.
+My first HTML project!
